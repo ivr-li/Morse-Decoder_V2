@@ -17,7 +17,7 @@ MorseNet — это нейросетевая модель для автомат�
 ## ⚙️ Установка локального сервера (без Docker).
 1. **Клонирование репощитория:**
     ```
-    git clone https://github.com/MedvedevDV/Morse-Decoder_V2.git
+    git clone https://github.com/SalLangg/Morse-Decoder_V2
     cd Morse-Decoder_V2
     ```
 2. **Создание и активация:**
